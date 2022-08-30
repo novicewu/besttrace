@@ -1,5 +1,5 @@
 # BestTrace 4 Linux/Mac/BSD
-Credit: (C) 2015 - 2021, IPIP.NET. All Rights Reversed.
+Credit to: (C) 2015 - 2021, IPIP.NET
 
 ---- How To Use ----
 
